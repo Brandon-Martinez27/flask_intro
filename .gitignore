@@ -7,4 +7,4 @@ Thumbs.db
 *.csv
 *.json
 *.xlsx
-*.txt
+env
